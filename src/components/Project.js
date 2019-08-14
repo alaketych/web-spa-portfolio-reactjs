@@ -12,8 +12,6 @@ class Project extends Component {
 
                 <div className="horz-divider"></div>
 
-{/*
-                <img src={require("../images/github-brands.svg")} /> */}
                 <NewSubProject  ProjectView = {require('../images/frst_prjct.png')}
                                 ProjectName = "Pure HTML/CSS Web Page"
                                 ProjectDesc = "It was my first uploaded reposotiroty on github. I was proud of my self to write a small web-page and to upload it. I understand this is low level and i shouldn't share it with people. However it reminds me how it all began. So, here I've just used html and css tag and nothing else." />
